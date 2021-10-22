@@ -3,3 +3,7 @@
     margin: 0;
     text-decoration: none;
 }
+h1 {
+    background: #fff;
+    color: red;
+}
